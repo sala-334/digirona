@@ -1,0 +1,138 @@
+{
+  "site": {
+    "title": "Digirona - Agencia de Marketing Digital en Girona"
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "pricing": "Precios",
+    "about": "Sobre nosotros",
+    "testimonials": "Testimonios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Transformamos tu negocio en el mundo digital",
+    "subtitle": "En Digirona, convertimos tu presencia digital en resultados tangibles con estrategias personalizadas de marketing.",
+    "cta": "Contáctanos"
+  },
+  "services": {
+    "title": "Nuestros servicios",
+    "subtitle": "Soluciones digitales a medida para tu negocio",
+    "seo": {
+      "title": "SEO Personalizado",
+      "description": "Optimización de tu sitio web para alcanzar posiciones destacadas en buscadores con seguimiento semanal y soporte continuo.",
+      "feature1": "Posicionamiento en el TOP 5 de Google",
+      "feature2": "Seguimiento semanal con llamadas",
+      "feature3": "Soporte continuo hasta alcanzar el objetivo"
+    },
+    "social": {
+      "title": "Gestión de Redes Sociales",
+      "description": "Creación y gestión de contenidos adaptados a la estrategia de tu empresa con asesoramiento constante.",
+      "feature1": "Estrategia de contenidos personalizada",
+      "feature2": "Seguimiento semanal",
+      "feature3": "Adaptación continua a las tendencias"
+    },
+    "web": {
+      "title": "Diseño y Desarrollo Web",
+      "description": "Creación de webs completamente adaptadas a tus necesidades e imagen con soporte post-servicio.",
+      "feature1": "Diseño web responsive",
+      "feature2": "Desarrollo personalizado",
+      "feature3": "Soporte técnico post-lanzamiento"
+    }
+  },
+  "pricing": {
+    "title": "Nuestros precios",
+    "subtitle": "Packs trimestrales con flexibilidad total",
+    "quarterly": "trimestre",
+    "month": "mes",
+    "features": "¿Qué incluye?",
+    "seo": {
+      "title": "Pack SEO",
+      "price": "270€",
+      "monthly": "90€",
+      "feature1": "Posicionamiento de 5 palabras clave",
+      "feature2": "Informe semanal de resultados",
+      "feature3": "Optimización de contenidos",
+      "feature4": "Enlaces de calidad"
+    },
+    "social": {
+      "title": "Pack Redes Sociales",
+      "price": "240€",
+      "monthly": "80€",
+      "feature1": "Gestión de 2 redes sociales",
+      "feature2": "12 publicaciones mensuales",
+      "feature3": "Diseño de contenidos",
+      "feature4": "Informe mensual de rendimiento"
+    },
+    "web": {
+      "title": "Pack Web",
+      "price": "450€",
+      "monthly": "150€",
+      "feature1": "Diseño web personalizado",
+      "feature2": "Desarrollo responsive",
+      "feature3": "Mantenimiento y actualizaciones",
+      "feature4": "Soporte técnico prioritario"
+    },
+    "promo": {
+      "title": "Oferta especial",
+      "description": "Contrata 2 packs y paga solo 1 durante el primer trimestre",
+      "button": "Aprovéchalo ahora"
+    }
+  },
+  "testimonials": {
+    "title": "Nuestros clientes dicen",
+    "subtitle": "Experiencias reales de clientes satisfechos",
+    "client1": {
+      "name": "Montse Puig",
+      "company": "Puig Pastelería",
+      "testimonial": "Gracias a Digirona hemos multiplicado nuestras ventas online. Su servicio personalizado y el seguimiento constante fueron clave para nuestro éxito."
+    },
+    "client2": {
+      "name": "Jordi Casals",
+      "company": "TechGirona",
+      "testimonial": "La flexibilidad y la adaptabilidad de Digirona fueron decisivas para nuestra startup. Recomendaría sus servicios a cualquier empresa emergente."
+    },
+    "client3": {
+      "name": "Laura Martí",
+      "company": "Ecocenter",
+      "testimonial": "Nuestro posicionamiento en Google ha mejorado notablemente en solo tres meses. Un equipo joven pero con gran profesionalidad."
+    }
+  },
+  "about": {
+    "title": "Sobre Digirona",
+    "subtitle": "Tu agencia de marketing digital en Girona",
+    "description": "Digirona nace con el objetivo de ofrecer servicios de marketing digital personalizados y de calidad a startups, negocios locales y empresas que quieren diferenciarse.",
+    "mission": {
+      "title": "Nuestra misión",
+      "description": "Ayudar a crecer digitalmente a las empresas de Cataluña ofreciendo soluciones flexibles, personalizadas y con un seguimiento constante."
+    },
+    "vision": {
+      "title": "Nuestra visión",
+      "description": "Convertirnos en un referente en marketing digital en Cataluña, reconocidos por nuestra flexibilidad, proximidad y resultados."
+    },
+    "values": {
+      "title": "Nuestros valores",
+      "value1": "Proximidad",
+      "value2": "Flexibilidad",
+      "value3": "Transparencia",
+      "value4": "Compromiso"
+    }
+  },
+  "contact": {
+    "title": "Contacta con nosotros",
+    "subtitle": "Estaremos encantados de ayudarte en tu proyecto digital",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "message": "Mensaje",
+    "submit": "Enviar",
+    "success": "Mensaje enviado correctamente. Nos pondremos en contacto contigo pronto.",
+    "error": "Ha habido un error. Por favor, vuelve a intentarlo más tarde."
+  },
+  "footer": {
+    "rights": "© 2025 Digirona. Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos y condiciones",
+    "cookies": "Política de cookies"
+  }
+}

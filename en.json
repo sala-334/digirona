@@ -1,0 +1,138 @@
+{
+  "site": {
+    "title": "Digirona - Digital Marketing Agency in Girona"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about": "About Us",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transforming your business in the digital world",
+    "subtitle": "At Digirona, we turn your digital presence into tangible results with personalized marketing strategies.",
+    "cta": "Contact Us"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Tailored digital solutions for your business",
+    "seo": {
+      "title": "Personalized SEO",
+      "description": "Optimization of your website to achieve prominent positions in search engines with weekly follow-up and continuous support.",
+      "feature1": "TOP 5 Google positioning",
+      "feature2": "Weekly follow-up calls",
+      "feature3": "Continuous support until goal achievement"
+    },
+    "social": {
+      "title": "Social Media Management",
+      "description": "Creation and management of content adapted to your company's strategy with constant advice.",
+      "feature1": "Customized content strategy",
+      "feature2": "Weekly follow-up",
+      "feature3": "Continuous adaptation to trends"
+    },
+    "web": {
+      "title": "Web Design & Development",
+      "description": "Creation of websites completely adapted to your needs and image with post-service support.",
+      "feature1": "Responsive web design",
+      "feature2": "Custom development",
+      "feature3": "Post-launch technical support"
+    }
+  },
+  "pricing": {
+    "title": "Our Pricing",
+    "subtitle": "Quarterly packages with total flexibility",
+    "quarterly": "quarter",
+    "month": "month",
+    "features": "What's included?",
+    "seo": {
+      "title": "SEO Package",
+      "price": "€270",
+      "monthly": "€90",
+      "feature1": "Positioning of 5 keywords",
+      "feature2": "Weekly results report",
+      "feature3": "Content optimization",
+      "feature4": "Quality backlinks"
+    },
+    "social": {
+      "title": "Social Media Package",
+      "price": "€240",
+      "monthly": "€80",
+      "feature1": "Management of 2 social networks",
+      "feature2": "12 monthly posts",
+      "feature3": "Content design",
+      "feature4": "Monthly performance report"
+    },
+    "web": {
+      "title": "Web Package",
+      "price": "€450",
+      "monthly": "€150",
+      "feature1": "Custom web design",
+      "feature2": "Responsive development",
+      "feature3": "Maintenance and updates",
+      "feature4": "Priority technical support"
+    },
+    "promo": {
+      "title": "Special offer",
+      "description": "Subscribe to 2 packages and pay only for 1 during the first quarter",
+      "button": "Take advantage now"
+    }
+  },
+  "testimonials": {
+    "title": "Our Clients Say",
+    "subtitle": "Real experiences from satisfied clients",
+    "client1": {
+      "name": "Montse Puig",
+      "company": "Puig Bakery",
+      "testimonial": "Thanks to Digirona we have multiplied our online sales. Their personalized service and constant follow-up were key to our success."
+    },
+    "client2": {
+      "name": "Jordi Casals",
+      "company": "TechGirona",
+      "testimonial": "Digirona's flexibility and adaptability were decisive for our startup. I would recommend their services to any emerging company."
+    },
+    "client3": {
+      "name": "Laura Martí",
+      "company": "Ecocenter",
+      "testimonial": "Our positioning on Google has improved remarkably in just three months. A young team but with great professionalism."
+    }
+  },
+  "about": {
+    "title": "About Digirona",
+    "subtitle": "Your digital marketing agency in Girona",
+    "description": "Digirona was born with the aim of offering personalized and quality digital marketing services to startups, local businesses, and companies looking to differentiate themselves.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To help companies in Catalonia grow digitally by offering flexible, personalized solutions with constant follow-up."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To become a reference in digital marketing in Catalonia, recognized for our flexibility, proximity, and results."
+    },
+    "values": {
+      "title": "Our Values",
+      "value1": "Proximity",
+      "value2": "Flexibility",
+      "value3": "Transparency",
+      "value4": "Commitment"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'll be delighted to help with your digital project",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "submit": "Send",
+    "success": "Message sent successfully. We will contact you soon.",
+    "error": "There was an error. Please try again later."
+  },
+  "footer": {
+    "rights": "© 2025 Digirona. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "cookies": "Cookie Policy"
+  }
+}
